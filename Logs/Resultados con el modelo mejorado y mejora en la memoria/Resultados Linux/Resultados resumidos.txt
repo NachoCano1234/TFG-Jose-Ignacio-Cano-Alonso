@@ -1,0 +1,6 @@
+Log -> Reward final: 604, Duración: 2h 400 episodios
+Log 2 -> Reward final: 552, Duración: no válida debido a parón 400 episodios
+Log 3 -> Reward final: 485, Duración: 1h 15min 400 episodios
+Log 4 -> Reward final: 554, Duración: 1h. 400 episodios
+Log 5 -> Reward final: 548, Duración: 2h 15min. 800 episodios
+Log 6 -> Reward final: 599, Duración: 4h 5min. 800 episodios
